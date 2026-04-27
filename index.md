@@ -2,12 +2,12 @@
 # Do not edit the text between these lines!
 layout: default
 ---
-<img width="1000" height="1000" alt="darkbrand" src="https://github.com/user-attachments/assets/c0901d27-f661-4cb4-80ae-549ffefacfed" />
 
 # EX09 Project: COMP110 Track Recommendation - Challenge Questions as Tailored Practice
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img width="1000" height="1000" alt="darkbrand" src="https://github.com/user-attachments/assets/c0901d27-f661-4cb4-80ae-549ffefacfed" />
+
 
 ## Using class survey data, we analyzed the relationship between coding experience and perceived difficulty of COMP110. 
 
